@@ -1,6 +1,6 @@
 {
     "useSideMenu": true,
     "lineBreaks": "gfm",
-    "additionalFooterText": "<script type=\"text/javascript\" src=\"./static/js/meihua.js\"></script><a onclick=\"window.MeihuaCC.forceTrans={aTables: ['梅花通用單字', '梅花通用詞彙']}; window.MeihuaCC.onPageLoad({originalTarget:document})\" >正體中文</a> | ",
+    "additionalFooterText": "<a href=\"javascript:window.open('https://github.com/chinavme/wiki/edit/gh-pages/'+window.location.hash.substring(2));\">编辑本页</a> | <script type=\"text/javascript\" src=\"./static/js/meihua.js\"></script><a onclick=\"window.MeihuaCC.forceTrans={aTables: ['梅花通用單字', '梅花通用詞彙']}; window.MeihuaCC.onPageLoad({originalTarget:document})\" >正體中文</a> | ",
     "anchorCharacter": "#"
 }
