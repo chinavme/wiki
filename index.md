@@ -1,8 +1,8 @@
 ![ChinaVME](http://www.chinavme.com/static/image/common/logo.png)
 # ChinaVME wiki
 ======
-简体中文
-繁體中文
+简体中文  
+繁體中文  
 
 请为系列教程建立专题文件夹，以专题名命名。不成系列的应当建立作者文件夹，以作者昵称命名。  
 将markdown页面直接放在文件夹下面，将markdown页面引用的图片放置在该文件夹的images子文件夹下。  
