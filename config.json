@@ -1,0 +1,6 @@
+{
+    "useSideMenu": true,
+    "lineBreaks": "gfm",
+    "additionalFooterText": "<script type=\"text/javascript\" src=\"./static/js/meihua.js\"></script><a onclick=\"window.MeihuaCC.forceTrans={aTables: ['梅花通用單字', '梅花通用詞彙']}; window.MeihuaCC.onPageLoad({originalTarget:document})\" >正體中文</a> | ",
+    "anchorCharacter": "#"
+}
